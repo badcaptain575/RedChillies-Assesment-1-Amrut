@@ -16,7 +16,7 @@ This repository contains the ComfyUI workflows (JSON) and final high-resolution 
 *N/A - This task utilizes pre-trained diffusion models for zero-shot inference and generation.*
 
 ## Prediction / Execution Instructions
-1. Drag and drop the provided `Assessment1_Workflow.json` into the ComfyUI interface.
+1. Drag and drop the provided `Redchilles Assesment 1 - (Amrut).json` into the ComfyUI interface.
 2. Upload the input image into the initial `Load Image` node.
 3. For inpainting/removal tasks, right-click the `Load Image` node, select "Open in Mask Editor", and paint the target region.
 4. Click **Queue Prompt** to execute the pipeline.
